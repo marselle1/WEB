@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: #292929;
+}
+.table{
+    border: 2px solid #42393C;
+    background-color:#42393c65;
+    margin: auto;
+    font-family: monospace;
+    color: ghostwhite;
+    border-radius: 25px;
+}
+th{
+    border: #42393C;
+}
+.th1{
+    color: orange;
+}
+.mh1{
+    color: orange;
+    text-align: center;
+}
+.img1{
+    border: 2px solid #42393C;
+    border-radius: 25px;
+}
+.conth{
+    background: linear-gradient( #EECFba ,#c5dde8 );
+    border: 2px solid #42393C;
+    border-radius: 25px;
+    tab-size: 50x;
+    color: #292929;
+}
+.zgth{
+    font-size: 15px;
+    color: #EECFba;
+}
+.table2{
+    border-color:#42393C ;
+    border: 2px solid #42393C;
+    border-radius: 25px;
+    margin: auto;
+    font-family: monospace;
+    font-size: 25px;
+}
